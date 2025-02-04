@@ -1,1 +1,9 @@
+title: Alec Smith's Work
+description: Case Studies, etc.
 theme: minima
+
+# Optional: Customize your Minima theme
+minima:
+  social_links:
+    - platform: github
+      url: https://github.com/alecsmith1

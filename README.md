@@ -1,6 +1,6 @@
 <h2>About my work:</h2>
-- Status – Completed 'Google Data Analytics Professional Certificate' 📈
-- Industry Interests – Public Services | Renewable Energy | Personal & Financial Health
+- Status – Recently completed 'Google Data Analytics Professional Certificate' 📈 <br />
+- Industry Interests – Public Services | Renewable Energy | Personal & Financial Health <br />
 - Skillsets – Data Analytics | Digital Advertising
 
 <h2>Other:</h2>
